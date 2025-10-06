@@ -62,3 +62,7 @@ The app uses **Node.js** for the backend server and **Express.js** to serve stat
 ## Author
 - NAMITHA G 
 
+##OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d6a1e252-9657-47c3-89b9-61bfb1589764" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9fd14d06-bfc6-476c-b1d8-b729389820c2" />
