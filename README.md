@@ -60,4 +60,5 @@ The app uses **Node.js** for the backend server and **Express.js** to serve stat
 ---
 
 ## Author
-- Your Name  
+- NAMITHA G 
+
